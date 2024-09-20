@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo07\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo06\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo05\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo04\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo08\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo03\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo02\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Prueba01\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Prueba01",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Prueba01\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\Prueba\\Prueba01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
