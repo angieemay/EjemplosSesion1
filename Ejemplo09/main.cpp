@@ -18,7 +18,9 @@ int main(int argc, char** argv)
 	cout << "Escribe dos datos enteros: " << endl;
 	cin >> a >> b;
 	int copia = b;
-	cout << "Antes de machaca1: " << a << " y " << b << endl << endl;
+	cout << "Antes de machaca1: " << a << " y " << b << endl;
+	machaca1(a, &b);
+	cout << "Despues de machaca1: " << a << " y " << b << endl << endl;
 	b = copia;
 	cout << "Antes de machaca2: " << a << " y " << b << endl;
 	machaca2(a,b);
