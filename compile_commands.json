@@ -1,4 +1,16 @@
 [{
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Persona.hpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Persona.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\PilasYColas\\NodoPila.hpp",
   "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\PilasYColas",
   "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\PilasYColas\\NodoPila.hpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\PilasYColas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
