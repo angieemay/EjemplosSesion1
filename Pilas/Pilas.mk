@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Ejemplo09
+ProjectName            :=Pilas
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/ESTRUCTURA-DATOS/EjemplosSesion1
-ProjectPath            :=C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/ESTRUCTURA-DATOS/EjemplosSesion1/Ejemplo09
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo09
+ProjectPath            :=C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/ESTRUCTURA-DATOS/EjemplosSesion1/Pilas
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Pilas
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/ESTRUCTURA-DATOS/EjemplosSesion1/Ejemplo09/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/angel/OneDrive/Escritorio/UNIVERSIDAD/ESTRUCTURA-DATOS/EjemplosSesion1/Pilas/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

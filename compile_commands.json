@@ -1,4 +1,40 @@
 [{
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Pila.hpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Pila.hpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Cola.hpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Cola.hpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Pila.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Pila.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoPila.hpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoPila.hpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoCola.hpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoCola.hpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoCola.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoCola.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoPila.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoPila.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Cola.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Cola.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo12\\main.cpp",
   "directory": "C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo12",
   "command": "clang++ -c C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo12\\main.cpp -o C:\\Users\\angel\\OneDrive\\Escritorio\\UNIVERSIDAD\\ESTRUCTURA-DATOS\\EjemplosSesion1\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
