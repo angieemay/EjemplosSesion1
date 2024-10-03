@@ -2,7 +2,7 @@
 
 All:
 	@echo "----------Building project:[ PilasYColas - Debug ]----------"
-	@cd "Ejemplo13" && "$(MAKE)" -f  "PilasYColas.mk"
+	@cd "PilasYColas" && "$(MAKE)" -f  "PilasYColas.mk"
 clean:
 	@echo "----------Cleaning project:[ PilasYColas - Debug ]----------"
-	@cd "Ejemplo13" && "$(MAKE)" -f  "PilasYColas.mk" clean
+	@cd "PilasYColas" && "$(MAKE)" -f  "PilasYColas.mk" clean

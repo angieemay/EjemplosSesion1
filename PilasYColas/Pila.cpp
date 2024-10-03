@@ -1,4 +1,4 @@
-#include "Pila.hpp"
+#include <Pila.hpp>
 
 using namespace std;
 
@@ -32,7 +32,6 @@ int Pila::extraer()
 
 int Pila::cima()
 {
-	pnodoPila nodo;
 	if(!ultimo)
 		return 0;
 	return ultimo->valor;

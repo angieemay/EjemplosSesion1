@@ -1,0 +1,1 @@
+../build-Debug/PilasYColas/NodoCola.cpp.o ../build-Debug/PilasYColas/main.cpp.o ../build-Debug/PilasYColas/Pila.cpp.o ../build-Debug/PilasYColas/Cola.cpp.o ../build-Debug/PilasYColas/NodoPila.cpp.o   

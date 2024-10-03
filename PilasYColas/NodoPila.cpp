@@ -1,4 +1,4 @@
-#include "NodoPila.hpp"
+#include <NodoPila.hpp>
 
 NodoPila::NodoPila(int v, NodoPila* sig)
 {

@@ -1,4 +1,4 @@
-#include "NodoCola.hpp"
+#include <NodoCola.hpp>
 
 NodoCola::NodoCola(int v, NodoCola* sig)
 {

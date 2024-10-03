@@ -11,6 +11,6 @@ private:
 	int valor;
 	NodoPila* siguiente;
 	friend class Pila;
-}
+};
 
 typedef NodoPila* pnodoPila;
